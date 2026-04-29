@@ -29,4 +29,4 @@ jobs:
 
       - name: Build project
         working-directory: GiftcardSite
-        run: ./gradlew assembleDebug
+        run: ./gradlew build
